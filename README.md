@@ -1,17 +1,8 @@
-<img src="./olaf.jpg" width="100%" alt="올라프" />
-
-## ⛄ AI와 웹 기술을 활용해 사용자 중심의 서비스를 만드는 개발자입니다.
+<h3 align="center">
+  ⛄ AI와 웹 기술을 활용해 사용자 중심의 서비스를 만드는 개발자입니다.
+</h3>
 
 ## 🛠 Tech Stack
-
-### Frontend
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### AI
 
@@ -27,6 +18,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Collaboration
 
@@ -46,7 +46,8 @@
 | **[WIDN Math](https://github.com/olaflove/ai-math-coach)** | 2026.05 ~ 2026.06 | AI 기반 수학 학습 피드백 서비스 | Vue 3, Vite, Pinia |
 | **[모두의 프롬프트](https://github.com/olaflove/prompt-practice)** 🏆 | 2026.07 ~ 2026.08 | 주니어 개발자 프롬프트 학습 플랫폼 | React, TypeScript |
 | **[AI Block Clock](https://github.com/olaflove/ai-agent-marketplace)** | 2026.08 ~ 2026.09 | 블록체인 기반 AI 에이전트 마켓플레이스 | Python, Hugging Face |
-| **AI 반려동물 보행 분석** | 2026.10 ~ 진행 중 | AI 모델 최적화·경량화 및 보고서 자동화 | Python, PyTorch |
+| **[AI 반려동물 보행 분석](https://github.com/olaflove/ai-gait-analysis)** | 2026.10 ~ 2026.11 | AI 모델 최적화·경량화 및 보고서 자동화 | Python, PyTorch |
+| **[notion-jira-sync](https://github.com/olaflove/notion-jira-sync)** | 2026.10 | Notion 할 일을 Jira 이슈·스프린트로 자동 등록 | Python, Notion API, Jira API |
 
 
 
